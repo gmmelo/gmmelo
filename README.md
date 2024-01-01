@@ -2,8 +2,8 @@
 
 Here are some things that I like:
 
-- Games
 - Computers
+- Games
 - How to use computers to make games
 
 So I'm currently trying to understand it all from the ground up. The less abstraction the better!

@@ -1,16 +1,15 @@
-### Hi there 👋
+### Interests
 
-<!--
-**gmmelo/gmmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some things that I like:
 
-Here are some ideas to get you started:
+- Games
+- Computers
+- How to use computers to make games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So I'm currently trying to understand it all from the ground up. The less abstraction the better!
+
+---
+
+### Collaboration
+
+I'm currently a freshman at Arizona State University, but I already work on some cool projects. Feel free to contact me via my LinkedIn if you want to talk about those and do some learning together!
